@@ -1,5 +1,5 @@
 # 计算机基础
 
-## [计算机网络](/network/README.md)
+## [计算机网络](/README.md)
 
-## [算法&数据结构](/algorithm/README.md)
+## [算法&数据结构](/README.md)
