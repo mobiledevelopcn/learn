@@ -1,7 +1,9 @@
 # Java
 
-# Kotlin
+## [Java](/language/java/java.md)
 
-# Go
+## [Kotlin](/language/kotlin/kotlin.md)
 
-# C/C++
+## [Go](/language/go/go.md)
+
+## [C/C++](/language/c/c.md)
