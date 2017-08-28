@@ -1,4 +1,4 @@
-# Java
+# 计算机语言
 
 ## [Java](/language/java/java.md)
 
